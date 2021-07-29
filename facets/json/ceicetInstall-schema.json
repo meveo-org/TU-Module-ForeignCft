@@ -1,0 +1,18 @@
+{
+    "storages": ["SQL"],
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "id": "ceicetInstall",
+    "title": "ceicetInstall",
+    "type": "object",
+    "properties": {"fieldCei": {
+        "storages": ["SQL"],
+        "nullable": true,
+        "description": "field for cei",
+        "readOnly": false,
+        "versionable": false,
+        "id": "CE_ceicetInstall_fieldCei",
+        "title": "ceicetInstall.fieldCei",
+        "type": "string",
+        "maxLength": 255
+    }}
+}
