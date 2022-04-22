@@ -10,7 +10,7 @@
         "description": "infrastructure",
         "currentVersion": "1.31",
         "gitUrl": "https://github.com/webdrone-fr/mv-infrastructure",
-        "gitBranch": "master"
+        "gitBranch": "test"
     }],
     "moduleFiles": []
 }
