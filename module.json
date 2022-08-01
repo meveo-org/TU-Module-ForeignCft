@@ -5,12 +5,6 @@
     "currentVersion": "1.0",
     "isInDraft": true,
     "moduleItems": [],
-    "moduleDependencies": [{
-        "code": "infrastructure",
-        "description": "infrastructure",
-        "currentVersion": "1.31",
-        "gitUrl": "https://github.com/webdrone-fr/mv-infrastructure",
-        "gitBranch": "test"
-    }],
+    "moduleDependencies": [],
     "moduleFiles": []
 }
