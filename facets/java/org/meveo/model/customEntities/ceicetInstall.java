@@ -8,6 +8,9 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 public class ceicetInstall implements CustomEntity {
 
     public ceicetInstall() {
+        
+        
+        
     }
 
     private String uuid;
